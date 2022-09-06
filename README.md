@@ -4,15 +4,10 @@
 
 # Halalah Backend Setup
 
-### Welcome to Halalah, this is the **_first step_** to start the Halalah app, we will take you through it step by step, for the backend we used Django rest frame work with a couple more librarie as listed in [This document](https://www.canva.com/design/DAEv9SKp-gk/k95dM7PPRJtHbzZ7m9uVpg/view?utm_content=DAEv9SKp-gk&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu).
+### Welcome to Halalah, this is the **_first step_** to start the Halalah app, we will take you through it step by step, for the backend we used Django rest frame work with a couple more librarie as listed in [This document]().
 
 ---
 
-## # Authors :
-
-#### [@Lama Aldohayan](https://code.tamkeen.cloud/plugins/servlet/user-contributions/l.aldohayan?view=summary)
-
-#### [@Wafa Alturaifi](https://code.tamkeen.cloud/plugins/servlet/user-contributions/w.alturaifi?view=summary)
 
 ---
 
